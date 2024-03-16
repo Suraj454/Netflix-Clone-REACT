@@ -1,1 +1,1 @@
-Link - netflix-clone-project.netlify.app
+Link - https://netflix-clone-project.netlify.app/
